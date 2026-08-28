@@ -8,7 +8,7 @@ into this repo, and `manifest.json` records which one each took in `image_source
 
 - **17 from Optima's own files**, where the file itself carries an explicit CC0
   public-domain dedication in its metadata.
-- **16 re-sourced from Wikimedia Commons**, where the artwork is out of copyright but our
+- **24 re-sourced from Wikimedia Commons**, where the artwork is out of copyright but our
   own copy is not redistributable. Each was confirmed by comparing it side by side with
   our copy before publication; a licence check cannot tell the right title on the wrong
   painting. Public domain / PD-Art / PD-old / CC0 only, never CC-BY or CC-BY-SA.
@@ -17,9 +17,9 @@ This is not the catalogue.
 
 | | |
 |---|---|
-| Images | 33 |
+| Images | 41 |
 | Long edge | 1600 px |
-| Total size | 13.6 MB |
+| Total size | 16.5 MB |
 | Base URL | `https://optimaondemand.github.io/optima-art-assets/` |
 | Manifest | [`manifest.json`](manifest.json) |
 
@@ -33,7 +33,7 @@ overwritten on the next build, and worse, it bypasses the licence gate.
 
 ## Why so few images for so large a catalogue
 
-The catalogue holds 529 distinct works. 33 are here. The gap is not copyright — most of
+The catalogue holds 529 distinct works. 41 are here. The gap is not copyright — most of
 those 529 works are centuries out of copyright — it is **redistribution licence**.
 
 The source files were exported from Artstor (now Images on JSTOR), and 433 of 480 of them
@@ -47,8 +47,8 @@ Full disposition of the catalogue:
 
 | Disposition | Works | Meaning |
 |---|---|---|
-| publish | 33 | free to publish: 17 CC0 in our own files, 16 verified Commons replacements |
-| re-source | 37 | public domain, but find a freely licensed copy first |
+| publish | 41 | free to publish: 17 CC0 in our own files, 24 verified Commons replacements |
+| re-source | 54 | public domain, but find a freely licensed copy first |
 | link-only | 365 | still in copyright, or the photograph carries its own rights |
 | research | 94 | no reliable date established; decide nothing yet |
 

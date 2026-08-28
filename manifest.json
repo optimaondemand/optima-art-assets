@@ -1,10 +1,57 @@
 {
- "generated": "2026-08-28T09:30:10",
- "n_images": 33,
+ "generated": "2026-08-28T11:43:46",
+ "n_images": 41,
  "max_edge": 1600,
  "jpeg_quality": 82,
  "licence_note": "Every image here carries an explicit CC0 public-domain dedication in its source file metadata. Works whose licence did not permit redistribution are NOT in this repo; they are catalogued in the private optima-art-library with a JSTOR link instead.",
  "images": [
+  {
+   "work_id": "aw_0500be8f0b51",
+   "file": "images/aw_0500be8f0b51.jpg",
+   "bytes": 559905,
+   "sha256": "8b1046c7894c50c3e43d463bfab0561050a3eef49eb587c967c28340eca039c7",
+   "width": 1600,
+   "height": 1253,
+   "source_px": [
+    1920,
+    1504
+   ],
+   "title": "The Pyramids of El-Geezeh from the Southwest (Pyramids from the Southwest, Giza).",
+   "creator": "Francis Frith",
+   "creator_full": "Frith, Francis, 1822-1898",
+   "date": "c.1857",
+   "year": 1857,
+   "image_source": "commons",
+   "licence": "Public domain",
+   "licence_evidence": "our own copy is not redistributable; publishing a verified Commons replacement instead (Public domain)",
+   "commons_file": "File:Francis Frith - Pyramids Of El-Geezeh (From The Southwest) - Google Art Project.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Francis_Frith_-_Pyramids_Of_El-Geezeh_(From_The_Southwest)_-_Google_Art_Project.jpg",
+   "jstor_url": "https://www.jstor.org/stable/community.13716977",
+   "courses": [
+    "Art History and Criticism"
+   ],
+   "units": [
+    "Ancient Egypt & Mesopotamia",
+    "images"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "frith",
+     "label": "Frith"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "ancient-near-east",
+     "label": "Ancient Near East"
+    },
+    {
+     "scheme": "concept",
+     "code": "history.ancient-egypt",
+     "label": "Ancient Egypt"
+    }
+   ]
+  },
   {
    "work_id": "aw_9130be54af83",
    "file": "images/aw_9130be54af83.jpg",
@@ -44,6 +91,11 @@
      "scheme": "art.movement",
      "code": "ancient-near-east",
      "label": "Ancient Near East"
+    },
+    {
+     "scheme": "concept",
+     "code": "history.ancient-egypt",
+     "label": "Ancient Egypt"
     }
    ]
   },
@@ -80,6 +132,11 @@
      "scheme": "art.movement",
      "code": "ancient-near-east",
      "label": "Ancient Near East"
+    },
+    {
+     "scheme": "concept",
+     "code": "history.ancient-egypt",
+     "label": "Ancient Egypt"
     }
    ]
   },
@@ -126,6 +183,53 @@
      "scheme": "art.movement",
      "code": "baroque-rococo",
      "label": "Baroque Rococo"
+    },
+    {
+     "scheme": "concept",
+     "code": "ela.biblical-narrative",
+     "label": "Biblical narrative"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_a6439546c924",
+   "file": "images/aw_a6439546c924.jpg",
+   "bytes": 381551,
+   "sha256": "bf1b49b49f316b53cd67d3f2094dd98db2b89842d173e56b5706ce74b0debd8e",
+   "width": 1600,
+   "height": 1248,
+   "source_px": [
+    1920,
+    1497
+   ],
+   "title": "The Oath of the Horatii",
+   "creator": "Jacques-Louis David",
+   "creator_full": "Jacques-Louis David",
+   "date": "1784",
+   "year": 1784,
+   "image_source": "commons",
+   "licence": "Public domain",
+   "licence_evidence": "our own copy is not redistributable; publishing a verified Commons replacement instead (Public domain)",
+   "commons_file": "File:Jacques-Louis David - Oath of the Horatii - Google Art Project.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_Oath_of_the_Horatii_-_Google_Art_Project.jpg",
+   "jstor_url": "https://www.jstor.org/stable/community.18115331",
+   "courses": [
+    "Art History and Criticism"
+   ],
+   "units": [
+    "Neoclassicism, Romanticism, Realism & Impressionism",
+    "images"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "david",
+     "label": "David"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "neoclassicism",
+     "label": "Neoclassicism"
     }
    ]
   },
@@ -183,7 +287,7 @@
     1305
    ],
    "title": "Raft of the Medusa",
-   "creator": "Gericault, Theodore, 1791-1824",
+   "creator": "Theodore Gericault",
    "creator_full": "Gericault, Theodore, 1791-1824",
    "date": "1819",
    "year": 1819,
@@ -214,6 +318,48 @@
    ]
   },
   {
+   "work_id": "aw_fc455bcd7a62",
+   "file": "images/aw_fc455bcd7a62.jpg",
+   "bytes": 369509,
+   "sha256": "2399cece7401297bb940e82abe75ba5d56e0184ddbee47d7adea6d698b1a00ba",
+   "width": 1600,
+   "height": 1213,
+   "source_px": [
+    1920,
+    1456
+   ],
+   "title": "Landscape with the Castle of Massa di Carrara",
+   "creator": "Leo von Klenze",
+   "creator_full": "Leo von Klenze (German, 1784 - 1864)",
+   "date": "1827",
+   "year": 1827,
+   "image_source": "commons",
+   "licence": "Public domain",
+   "licence_evidence": "our own copy is not redistributable; publishing a verified Commons replacement instead (Public domain)",
+   "commons_file": "File:Leo von Klenze - Landscape with the Castle of Massa di Carrara (1827).jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Leo_von_Klenze_-_Landscape_with_the_Castle_of_Massa_di_Carrara_(1827).jpg",
+   "jstor_url": "https://www.jstor.org/stable/community.15984709",
+   "courses": [
+    "Art History and Criticism"
+   ],
+   "units": [
+    "Neoclassicism, Romanticism, Realism & Impressionism",
+    "images"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "leo-von-klenze",
+     "label": "Leo Von Klenze"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "neoclassicism",
+     "label": "Neoclassicism"
+    }
+   ]
+  },
+  {
    "work_id": "aw_481f46db6c39",
    "file": "images/aw_481f46db6c39.jpg",
    "bytes": 366130,
@@ -225,7 +371,7 @@
     1489
    ],
    "title": "Impression: Sunrise",
-   "creator": "Monet, Claude, 1840-1926",
+   "creator": "Claude Monet",
    "creator_full": "Monet, Claude, 1840-1926",
    "date": "1873",
    "year": 1873,
@@ -251,6 +397,48 @@
      "scheme": "art.artist",
      "code": "claude-monet",
      "label": "Claude Monet"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "neoclassicism",
+     "label": "Neoclassicism"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_f9c7dfe43f4c",
+   "file": "images/aw_f9c7dfe43f4c.jpg",
+   "bytes": 407790,
+   "sha256": "63ec7410ebd9cb632cd22072b6031b5523949f53b084a65fad90fb54e9ab448d",
+   "width": 1600,
+   "height": 1252,
+   "source_px": [
+    1920,
+    1503
+   ],
+   "title": "View at Guernsey",
+   "creator": "French Pierre-Auguste Renoir",
+   "creator_full": "Pierre-Auguste Renoir, French, 1841-1919",
+   "date": "1883",
+   "year": 1883,
+   "image_source": "commons",
+   "licence": "Public domain",
+   "licence_evidence": "our own copy is not redistributable; publishing a verified Commons replacement instead (Public domain)",
+   "commons_file": "File:Pierre-Auguste Renoir - View at Guernsey - 1955.601 - Clark Art Institute.tiff",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir_-_View_at_Guernsey_-_1955.601_-_Clark_Art_Institute.tiff",
+   "jstor_url": "https://www.jstor.org/stable/community.15645134",
+   "courses": [
+    "Art History and Criticism"
+   ],
+   "units": [
+    "Neoclassicism, Romanticism, Realism & Impressionism",
+    "images"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "pierre",
+     "label": "Pierre"
     },
     {
      "scheme": "art.movement",
@@ -297,6 +485,11 @@
      "scheme": "art.movement",
      "code": "renaissance",
      "label": "Renaissance"
+    },
+    {
+     "scheme": "concept",
+     "code": "ela.self-portrait",
+     "label": "Self-portrait and self-presentation"
     }
    ]
   },
@@ -312,7 +505,7 @@
     2866
    ],
    "title": "Mona Lisa",
-   "creator": "Leonardo, da Vinci, 1452-1519",
+   "creator": "Leonardo da Vinci",
    "creator_full": "Leonardo, da Vinci, 1452-1519",
    "date": "1503-07",
    "year": 1503,
@@ -343,6 +536,47 @@
    ]
   },
   {
+   "work_id": "aw_1e38ed702bd2",
+   "file": "images/aw_1e38ed702bd2.jpg",
+   "bytes": 455717,
+   "sha256": "422e60a3eb178d9a37ad0c0bbfe53e24442b8197ee3f524f42b25ac20dfb17dd",
+   "width": 1600,
+   "height": 1067,
+   "source_px": [
+    1920,
+    1280
+   ],
+   "title": "Rome: Sistine Chapel: ceiling frescos: Creation of Adam",
+   "creator": "Michelangelo",
+   "creator_full": "Michelangelo",
+   "date": "1508-1512",
+   "year": 1512,
+   "image_source": "commons",
+   "licence": "Public domain",
+   "licence_evidence": "our own copy is not redistributable; publishing a verified Commons replacement instead (Public domain)",
+   "commons_file": "File:'Adam's Creation Sistine Chapel ceiling' by Michelangelo JBU33.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:%27Adam%27s_Creation_Sistine_Chapel_ceiling%27_by_Michelangelo_JBU33.jpg",
+   "jstor_url": "https://www.jstor.org/stable/community.18122590",
+   "courses": [
+    "Art History and Criticism"
+   ],
+   "units": [
+    "Renaissance Art"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "michelangelo-buonarroti",
+     "label": "Michelangelo Buonarroti"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "renaissance",
+     "label": "Renaissance"
+    }
+   ]
+  },
+  {
    "work_id": "aw_29a182315082",
    "file": "images/aw_29a182315082.jpg",
    "bytes": 711839,
@@ -354,7 +588,7 @@
     1520
    ],
    "title": "The Starry Night",
-   "creator": "Vincent van Gogh, Dutch, 1853-1890",
+   "creator": "Dutch Vincent van Gogh",
    "creator_full": "Vincent van Gogh, Dutch, 1853-1890",
    "date": "Saint R\u00e9my, June 1889",
    "year": 1889,
@@ -507,8 +741,8 @@
     2024
    ],
    "title": "Design for a Stage Set Depicting a Perspectival View of an Ideal Renaissance City",
-   "creator": "Anonymous, Italian, 16th century",
-   "creator_full": "Anonymous, Italian, 16th century ; Artist: Previously attributed to Monogrammist G.A. & the Caltrop (Italian, 1530\u20131540)",
+   "creator": "Anonymous, Italian, 16th century; Previously attributed to Monogrammist G.A. & the Caltrop",
+   "creator_full": "Anonymous, Italian, 16th century; Previously attributed to Monogrammist G.A. & the Caltrop (Italian, 1530\u20131540)",
    "date": "ca. 1550\u201360",
    "year": 1550,
    "image_source": "optima-file",
@@ -533,6 +767,11 @@
      "scheme": "art.movement",
      "code": "renaissance",
      "label": "Renaissance"
+    },
+    {
+     "scheme": "concept",
+     "code": "math.linear-perspective",
+     "label": "Linear perspective"
     }
    ]
   },
@@ -613,6 +852,43 @@
    ]
   },
   {
+   "work_id": "aw_50e2d01707f4",
+   "file": "images/aw_50e2d01707f4.jpg",
+   "bytes": 294036,
+   "sha256": "391f30954f20cf545f94aeb7583784e56bf8d7f720b3316e70e5b85b829066ac",
+   "width": 1600,
+   "height": 952,
+   "source_px": [
+    1920,
+    1143
+   ],
+   "title": "Campo Santa Maria Formosa",
+   "creator": "Canaletto",
+   "creator_full": "Canaletto",
+   "date": "c. 1750",
+   "year": 1750,
+   "image_source": "commons",
+   "licence": "Public domain",
+   "licence_evidence": "our own copy is not redistributable; publishing a verified Commons replacement instead (Public domain)",
+   "commons_file": "File:Canaletto - View of Campo Santa Maria Formosa.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Canaletto_-_View_of_Campo_Santa_Maria_Formosa.jpg",
+   "jstor_url": "https://www.jstor.org/stable/community.14500954",
+   "courses": [
+    "HS2DStudioArt2"
+   ],
+   "units": [
+    "Unit 4",
+    "images"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "canaletto",
+     "label": "Canaletto"
+    }
+   ]
+  },
+  {
    "work_id": "aw_5f07808c5b45",
    "file": "images/aw_5f07808c5b45.jpg",
    "bytes": 415158,
@@ -669,7 +945,7 @@
     1000
    ],
    "title": "Grain sifters",
-   "creator": "Courbet, Gustave, 1819-1877",
+   "creator": "Gustave Courbet",
    "creator_full": "Courbet, Gustave, 1819-1877",
    "date": "1855",
    "year": 1855,
@@ -734,6 +1010,52 @@
      "scheme": "art.movement",
      "code": "ancient-near-east",
      "label": "Ancient Near East"
+    },
+    {
+     "scheme": "concept",
+     "code": "history.ancient-egypt",
+     "label": "Ancient Egypt"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_897b8569cf87",
+   "file": "images/aw_897b8569cf87.jpg",
+   "bytes": 465630,
+   "sha256": "eb6c68552549fb2e03108821f68a7686593119746390528a70addf55bd14c12d",
+   "width": 1600,
+   "height": 1052,
+   "source_px": [
+    1920,
+    1262
+   ],
+   "title": "Brazilian Forest",
+   "creator": "Araujo Porto Alegre, Manuel de, Brazilian",
+   "creator_full": "Araujo Porto Alegre, Manuel de, Brazilian, 1806-1879",
+   "date": "1853",
+   "year": 1853,
+   "image_source": "commons",
+   "licence": "Public domain",
+   "licence_evidence": "our own copy is not redistributable; publishing a verified Commons replacement instead (Public domain)",
+   "commons_file": "File:Manuel de Ara\u00fajo Porto Alegre - Floresta Brasileira.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Manuel_de_Ara%C3%BAjo_Porto_Alegre_-_Floresta_Brasileira.jpg",
+   "jstor_url": "https://www.jstor.org/stable/community.14402166",
+   "courses": [
+    "MJ Visual Art 1"
+   ],
+   "units": [
+    "Brazilan Art"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "araujo-porto-alegre",
+     "label": "Araujo Porto Alegre"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "mesoamerican",
+     "label": "Mesoamerican"
     }
    ]
   },
@@ -954,7 +1276,7 @@
     2532
    ],
    "title": "Saint John the Baptist in the Wilderness",
-   "creator": "Michelangelo Merisi, called Caravaggio",
+   "creator": "called Caravaggio Michelangelo Merisi",
    "creator_full": "Michelangelo Merisi, called Caravaggio (Italian, 1571\u20131610)",
    "date": "1604",
    "year": 1604,
@@ -981,6 +1303,11 @@
      "scheme": "art.movement",
      "code": "baroque-rococo",
      "label": "Baroque Rococo"
+    },
+    {
+     "scheme": "concept",
+     "code": "ela.biblical-narrative",
+     "label": "Biblical narrative"
     }
    ]
   },
@@ -1024,6 +1351,11 @@
      "scheme": "art.movement",
      "code": "renaissance",
      "label": "Renaissance"
+    },
+    {
+     "scheme": "concept",
+     "code": "math.linear-perspective",
+     "label": "Linear perspective"
     }
    ]
   },
@@ -1039,7 +1371,7 @@
     1000
    ],
    "title": "Last Supper",
-   "creator": "Leonardo, da Vinci, 1452-1519",
+   "creator": "Leonardo da Vinci",
    "creator_full": "Leonardo, da Vinci, 1452-1519",
    "date": "1495-7",
    "year": 1495,
@@ -1069,6 +1401,11 @@
      "scheme": "art.movement",
      "code": "renaissance",
      "label": "Renaissance"
+    },
+    {
+     "scheme": "concept",
+     "code": "ela.biblical-narrative",
+     "label": "Biblical narrative"
     }
    ]
   },
@@ -1111,6 +1448,11 @@
      "scheme": "art.movement",
      "code": "medieval",
      "label": "Medieval"
+    },
+    {
+     "scheme": "concept",
+     "code": "ela.biblical-narrative",
+     "label": "Biblical narrative"
     }
    ]
   },
@@ -1126,7 +1468,7 @@
     1662
    ],
    "title": "Bonjour M. Courbet (Self Portrait)",
-   "creator": "Courbet, Gustave, 1819-1877",
+   "creator": "Gustave Courbet",
    "creator_full": "Courbet, Gustave, 1819-1877",
    "date": "1855",
    "year": 1855,
@@ -1152,6 +1494,11 @@
      "scheme": "art.movement",
      "code": "realism",
      "label": "Realism"
+    },
+    {
+     "scheme": "concept",
+     "code": "ela.self-portrait",
+     "label": "Self-portrait and self-presentation"
     }
    ]
   },
@@ -1167,7 +1514,7 @@
     1261
    ],
    "title": "Still Life with Apples, Pear, and Pomegranates",
-   "creator": "Gustave Courbet, French, 1819 - 1877",
+   "creator": "French Gustave Courbet",
    "creator_full": "Gustave Courbet, French, 1819 - 1877",
    "date": "1871 or 1872",
    "year": 1872,
@@ -1209,7 +1556,7 @@
     1409
    ],
    "title": "Still Life with Apples and a Pomegranate",
-   "creator": "Gustave Courbet, 1819 - 1877",
+   "creator": "Gustave Courbet",
    "creator_full": "Gustave Courbet, 1819 - 1877",
    "date": "1871-2",
    "year": 1871,
@@ -1250,7 +1597,7 @@
     1530
    ],
    "title": "Red Vineyard",
-   "creator": "Gogh, Vincent van, 1853-1890",
+   "creator": "Vincent van Gogh",
    "creator_full": "Gogh, Vincent van, 1853-1890",
    "date": "1888",
    "year": 1888,
@@ -1312,6 +1659,52 @@
      "scheme": "art.movement",
      "code": "renaissance",
      "label": "Renaissance"
+    },
+    {
+     "scheme": "concept",
+     "code": "math.linear-perspective",
+     "label": "Linear perspective"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_a0e73f116b26",
+   "file": "images/aw_a0e73f116b26.jpg",
+   "bytes": 114914,
+   "sha256": "7ddc500a4e1f4003767f4a554ce48441ae274ab939ce7f79931be167abcf928e",
+   "width": 775,
+   "height": 480,
+   "source_px": [
+    775,
+    480
+   ],
+   "title": "Christ Giving the Keys to Saint Peter",
+   "creator": "Perugino, Pietro, Umbrian",
+   "creator_full": "Perugino, Pietro, Umbrian",
+   "date": "1481-1482",
+   "year": 1482,
+   "image_source": "commons",
+   "licence": "Public domain",
+   "licence_evidence": "our own copy is not redistributable; publishing a verified Commons replacement instead (Public domain)",
+   "commons_file": "File:Christ Handing the Keys to St. Peter by Pietro Perugino.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Christ_Handing_the_Keys_to_St._Peter_by_Pietro_Perugino.jpg",
+   "jstor_url": "https://www.jstor.org/stable/community.18119978",
+   "courses": [
+    "MJ Visual Art 3"
+   ],
+   "units": [
+    "Italian Ren. Perspective"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "perugino",
+     "label": "Perugino"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "renaissance",
+     "label": "Renaissance"
     }
    ]
   },
@@ -1327,7 +1720,7 @@
     2495
    ],
    "title": "Van Gogh's Chair",
-   "creator": "Vincent van Gogh, 1853 - 1890",
+   "creator": "Vincent van Gogh",
    "creator_full": "Vincent van Gogh, 1853 - 1890",
    "date": "1888",
    "year": 1888,
