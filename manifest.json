@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-28T08:44:00",
- "n_images": 17,
+ "generated": "2026-08-28T09:30:10",
+ "n_images": 33,
  "max_edge": 1600,
  "jpeg_quality": 82,
  "licence_note": "Every image here carries an explicit CC0 public-domain dedication in its source file metadata. Works whose licence did not permit redistribution are NOT in this repo; they are catalogued in the private optima-art-library with a JSTOR link instead.",
@@ -21,8 +21,11 @@
    "creator_full": null,
    "date": "ca. 2381\u20132323 B.C.",
    "year": -2323,
+   "image_source": "optima-file",
    "licence": "CC0 1.0 Universal (public domain dedication)",
    "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "commons_file": null,
+   "commons_page": null,
    "jstor_url": "https://www.jstor.org/stable/community.18306841",
    "courses": [
     "Art History and Criticism"
@@ -60,8 +63,11 @@
    "creator_full": null,
    "date": "ca. 2381\u20132323 B.C.",
    "year": -2323,
+   "image_source": "optima-file",
    "licence": "CC0 1.0 Universal (public domain dedication)",
    "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "commons_file": null,
+   "commons_page": null,
    "jstor_url": "https://www.jstor.org/stable/community.18429583",
    "courses": [
     "Art History and Criticism"
@@ -74,6 +80,52 @@
      "scheme": "art.movement",
      "code": "ancient-near-east",
      "label": "Ancient Near East"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_35812469d4c8",
+   "file": "images/aw_35812469d4c8.jpg",
+   "bytes": 259095,
+   "sha256": "dc3e546f4b1159ac596e0c5d89129cf34fbf65df18a17817f3727a7bbbf676ca",
+   "width": 1283,
+   "height": 1200,
+   "source_px": [
+    1283,
+    1200
+   ],
+   "title": "The Calling of Saint Matthew",
+   "creator": "Michelangelo Merisi da Caravaggio",
+   "creator_full": "Michelangelo Merisi da Caravaggio",
+   "date": "1599-1600",
+   "year": 1600,
+   "image_source": "commons",
+   "licence": "Public domain",
+   "licence_evidence": "our own copy is not redistributable; publishing a verified Commons replacement instead (Public domain)",
+   "commons_file": "File:Caravaggio, Michelangelo Merisi da - The Calling of Saint Matthew - 1599-1600 (hi res).jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Caravaggio,_Michelangelo_Merisi_da_-_The_Calling_of_Saint_Matthew_-_1599-1600_(hi_res).jpg",
+   "jstor_url": "https://www.jstor.org/stable/community.14490796",
+   "courses": [
+    "Art History and Criticism",
+    "HSDigitalArtImaging1",
+    "MJ Visual Art 2"
+   ],
+   "units": [
+    "Baroque",
+    "Baroque & Rococo",
+    "Module 8 European Ren",
+    "images"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "michelangelo-merisi-da-caravaggio",
+     "label": "Michelangelo Merisi Da Caravaggio"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "baroque-rococo",
+     "label": "Baroque Rococo"
     }
    ]
   },
@@ -93,8 +145,11 @@
    "creator_full": "Georges Seurat (French, 1859\u20131891)",
    "date": "c. 1883\u201384",
    "year": 1883,
+   "image_source": "optima-file",
    "licence": "CC0 1.0 Universal (public domain dedication)",
    "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "commons_file": null,
+   "commons_page": null,
    "jstor_url": "https://www.jstor.org/stable/community.24604477",
    "courses": [
     "Art History and Criticism"
@@ -117,6 +172,217 @@
    ]
   },
   {
+   "work_id": "aw_1d4be9b7606b",
+   "file": "images/aw_1d4be9b7606b.jpg",
+   "bytes": 425746,
+   "sha256": "c90ecc4647992963d23177dbac399226cef2d869364c096d5f9213e01230c9af",
+   "width": 1600,
+   "height": 1088,
+   "source_px": [
+    1920,
+    1305
+   ],
+   "title": "Raft of the Medusa",
+   "creator": "Gericault, Theodore, 1791-1824",
+   "creator_full": "Gericault, Theodore, 1791-1824",
+   "date": "1819",
+   "year": 1819,
+   "image_source": "commons",
+   "licence": "Public domain",
+   "licence_evidence": "our own copy is not redistributable; publishing a verified Commons replacement instead (Public domain)",
+   "commons_file": "File:Th\u00e9odore G\u00e9ricault - The Raft of the Medusa - WGA08630.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Th%C3%A9odore_G%C3%A9ricault_-_The_Raft_of_the_Medusa_-_WGA08630.jpg",
+   "jstor_url": "https://www.jstor.org/stable/community.13607125",
+   "courses": [
+    "Art History and Criticism"
+   ],
+   "units": [
+    "Neoclassicism, Romanticism, Realism & Impressionism",
+    "images"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "gericault",
+     "label": "Gericault"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "neoclassicism",
+     "label": "Neoclassicism"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_481f46db6c39",
+   "file": "images/aw_481f46db6c39.jpg",
+   "bytes": 366130,
+   "sha256": "72b2673f0c90c7294f0d31aa0ef1516d2bfceb432901daf0a3452b1d0288eaab",
+   "width": 1600,
+   "height": 1241,
+   "source_px": [
+    1920,
+    1489
+   ],
+   "title": "Impression: Sunrise",
+   "creator": "Monet, Claude, 1840-1926",
+   "creator_full": "Monet, Claude, 1840-1926",
+   "date": "1873",
+   "year": 1873,
+   "image_source": "commons",
+   "licence": "Public domain",
+   "licence_evidence": "our own copy is not redistributable; publishing a verified Commons replacement instead (Public domain)",
+   "commons_file": "File:Monet - Impression, Sunrise.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Monet_-_Impression,_Sunrise.jpg",
+   "jstor_url": "https://www.jstor.org/stable/community.13603630",
+   "courses": [
+    "Art History and Criticism",
+    "HS2DStudioArt",
+    "MJ Visual Art 2"
+   ],
+   "units": [
+    "Monet",
+    "Monet & Mondrian",
+    "Neoclassicism, Romanticism, Realism & Impressionism",
+    "images"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "claude-monet",
+     "label": "Claude Monet"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "neoclassicism",
+     "label": "Neoclassicism"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_98574b7bbca7",
+   "file": "images/aw_98574b7bbca7.jpg",
+   "bytes": 375835,
+   "sha256": "d826279050743d978f454196fd935f3d907131f7068b7d94dcdd9c9a6a5faec8",
+   "width": 1027,
+   "height": 1600,
+   "source_px": [
+    1920,
+    2991
+   ],
+   "title": "Self-Portrait",
+   "creator": "Leonardo da Vinci",
+   "creator_full": "Leonardo da Vinci (Italian draftsman, 1452-1519)",
+   "date": "ca. 1512",
+   "year": 1512,
+   "image_source": "commons",
+   "licence": "Public domain",
+   "licence_evidence": "our own copy is not redistributable; publishing a verified Commons replacement instead (Public domain)",
+   "commons_file": "File:Leonardo da Vinci - presumed self-portrait - lossless.png",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_presumed_self-portrait_-_lossless.png",
+   "jstor_url": "https://www.jstor.org/stable/community.14404281",
+   "courses": [
+    "Art History and Criticism"
+   ],
+   "units": [
+    "Renaissance Art"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "leonardo-da-vinci",
+     "label": "Leonardo da Vinci"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "renaissance",
+     "label": "Renaissance"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_2c6f40979f86",
+   "file": "images/aw_2c6f40979f86.jpg",
+   "bytes": 388995,
+   "sha256": "b1e1f5a7afa9927b1e2ab3260009bf83b5782f6b6fceabaa80d946a859f33153",
+   "width": 1072,
+   "height": 1600,
+   "source_px": [
+    1920,
+    2866
+   ],
+   "title": "Mona Lisa",
+   "creator": "Leonardo, da Vinci, 1452-1519",
+   "creator_full": "Leonardo, da Vinci, 1452-1519",
+   "date": "1503-07",
+   "year": 1503,
+   "image_source": "commons",
+   "licence": "Public domain",
+   "licence_evidence": "our own copy is not redistributable; publishing a verified Commons replacement instead (Public domain)",
+   "commons_file": "File:Mona Lisa, by Leonardo da Vinci, from C2RMF natural color.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_natural_color.jpg",
+   "jstor_url": "https://www.jstor.org/stable/community.13718601",
+   "courses": [
+    "Art History and Criticism"
+   ],
+   "units": [
+    "Renaissance Art",
+    "images"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "leonardo-da-vinci",
+     "label": "Leonardo da Vinci"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "renaissance",
+     "label": "Renaissance"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_29a182315082",
+   "file": "images/aw_29a182315082.jpg",
+   "bytes": 711839,
+   "sha256": "7b6e168a81f7207f2b7a8173a0bdd279bf3b64cafb6853f760ba12113f5a8a87",
+   "width": 1600,
+   "height": 1267,
+   "source_px": [
+    1920,
+    1520
+   ],
+   "title": "The Starry Night",
+   "creator": "Vincent van Gogh, Dutch, 1853-1890",
+   "creator_full": "Vincent van Gogh, Dutch, 1853-1890",
+   "date": "Saint R\u00e9my, June 1889",
+   "year": 1889,
+   "image_source": "commons",
+   "licence": "Public domain",
+   "licence_evidence": "our own copy is not redistributable; publishing a verified Commons replacement instead (Public domain)",
+   "commons_file": "File:Van Gogh - Starry Night - Google Art Project.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+   "jstor_url": "https://www.jstor.org/stable/community.14565149",
+   "courses": [
+    "HS2DStudioArt",
+    "MJ Visual Art 2"
+   ],
+   "units": [
+    "Color",
+    "Van Gogh",
+    "Van gogh",
+    "images"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "vincent-willem-van-gogh",
+     "label": "Vincent Willem Van Gogh"
+    }
+   ]
+  },
+  {
    "work_id": "aw_647faeb916a7",
    "file": "images/aw_647faeb916a7.jpg",
    "bytes": 99548,
@@ -132,8 +398,11 @@
    "creator_full": null,
    "date": "ca. 590\u2013580 BCE",
    "year": -580,
+   "image_source": "optima-file",
    "licence": "CC0 1.0 Universal (public domain dedication)",
    "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "commons_file": null,
+   "commons_page": null,
    "jstor_url": "https://www.jstor.org/stable/community.16001614",
    "courses": [
     "HS2DStudioArt"
@@ -155,6 +424,42 @@
    ]
   },
   {
+   "work_id": "aw_b211d3670189",
+   "file": "images/aw_b211d3670189.jpg",
+   "bytes": 896025,
+   "sha256": "0bf9502cd1671f7c8e4bef03dd330e40eddb80448aa91a8c485a4a5c5b7d3d26",
+   "width": 1600,
+   "height": 1600,
+   "source_px": [
+    1920,
+    1920
+   ],
+   "title": "Water Lilies and Japanese Bridge",
+   "creator": "Claude Monet",
+   "creator_full": "Claude Monet",
+   "date": "1899",
+   "year": 1899,
+   "image_source": "commons",
+   "licence": "Public domain",
+   "licence_evidence": "our own copy is not redistributable; publishing a verified Commons replacement instead (Public domain)",
+   "commons_file": "File:Claude Monet - Water Lilies and Japanese Bridge - Google Art Project.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Water_Lilies_and_Japanese_Bridge_-_Google_Art_Project.jpg",
+   "jstor_url": "https://www.jstor.org/stable/community.16011213",
+   "courses": [
+    "HS2DStudioArt"
+   ],
+   "units": [
+    "Monet & Mondrian"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "claude-monet",
+     "label": "Claude Monet"
+    }
+   ]
+  },
+  {
    "work_id": "aw_039ff00d3e08",
    "file": "images/aw_039ff00d3e08.jpg",
    "bytes": 367760,
@@ -170,8 +475,11 @@
    "creator_full": "Franz Anton Maulbertsch (Austrian, Langenargen am Bodensee 1724\u20131796 Vienna)",
    "date": "ca. 1772\u201373",
    "year": 1772,
+   "image_source": "optima-file",
    "licence": "CC0 1.0 Universal (public domain dedication)",
    "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "commons_file": null,
+   "commons_page": null,
    "jstor_url": "https://www.jstor.org/stable/community.18708564",
    "courses": [
     "HS2DStudioArt"
@@ -203,8 +511,11 @@
    "creator_full": "Anonymous, Italian, 16th century ; Artist: Previously attributed to Monogrammist G.A. & the Caltrop (Italian, 1530\u20131540)",
    "date": "ca. 1550\u201360",
    "year": 1550,
+   "image_source": "optima-file",
    "licence": "CC0 1.0 Universal (public domain dedication)",
    "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "commons_file": null,
+   "commons_page": null,
    "jstor_url": "https://www.jstor.org/stable/community.27394788",
    "courses": [
     "HS2DStudioArt"
@@ -226,6 +537,45 @@
    ]
   },
   {
+   "work_id": "aw_9a50460a43c9",
+   "file": "images/aw_9a50460a43c9.jpg",
+   "bytes": 460152,
+   "sha256": "09ef88aafa85d7068aa894acd0aa812ff5bbd1090413f242ac233d08de445d56",
+   "width": 1600,
+   "height": 768,
+   "source_px": [
+    1920,
+    921
+   ],
+   "title": "Wheatfield with Crows",
+   "creator": "Gogh, Vincent van, Dutch",
+   "creator_full": "Gogh, Vincent van, Dutch",
+   "date": "1890",
+   "year": 1890,
+   "image_source": "commons",
+   "licence": "Public domain",
+   "licence_evidence": "our own copy is not redistributable; publishing a verified Commons replacement instead (Public domain)",
+   "commons_file": "File:Vincent Van Gogh - Wheatfield with Crows.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Vincent_Van_Gogh_-_Wheatfield_with_Crows.jpg",
+   "jstor_url": "https://www.jstor.org/stable/community.18118473",
+   "courses": [
+    "HS2DStudioArt",
+    "MJ Visual Art 2"
+   ],
+   "units": [
+    "Van Gogh",
+    "Van gogh",
+    "images"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "vincent-willem-van-gogh",
+     "label": "Vincent Willem Van Gogh"
+    }
+   ]
+  },
+  {
    "work_id": "aw_16907897a97a",
    "file": "images/aw_16907897a97a.jpg",
    "bytes": 370735,
@@ -241,8 +591,11 @@
    "creator_full": "Katsushika Hokusai (Japanese, Tokyo (Edo) 1760\u20131849 Tokyo (Edo))",
    "date": "ca. 1804\u201313",
    "year": 1804,
+   "image_source": "optima-file",
    "licence": "CC0 1.0 Universal (public domain dedication)",
    "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "commons_file": null,
+   "commons_page": null,
    "jstor_url": "https://www.jstor.org/stable/community.18688530",
    "courses": [
     "HS2DStudioArt2"
@@ -275,8 +628,11 @@
    "creator_full": "Katsushika Hokusai (Japanese, Tokyo (Edo) 1760\u20131849 Tokyo (Edo))",
    "date": "ca. 1830\u201332",
    "year": 1830,
+   "image_source": "optima-file",
    "licence": "CC0 1.0 Universal (public domain dedication)",
    "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "commons_file": null,
+   "commons_page": null,
    "jstor_url": "https://www.jstor.org/stable/community.15651093",
    "courses": [
     "HS2DStudioArt2",
@@ -302,6 +658,50 @@
    ]
   },
   {
+   "work_id": "aw_7dda80018f44",
+   "file": "images/aw_7dda80018f44.jpg",
+   "bytes": 213835,
+   "sha256": "a2d1f60c53a73c09f96c8360784c018b14a0c7fbf288178b91ae38eadeae2c5d",
+   "width": 1266,
+   "height": 1000,
+   "source_px": [
+    1266,
+    1000
+   ],
+   "title": "Grain sifters",
+   "creator": "Courbet, Gustave, 1819-1877",
+   "creator_full": "Courbet, Gustave, 1819-1877",
+   "date": "1855",
+   "year": 1855,
+   "image_source": "commons",
+   "licence": "Public domain",
+   "licence_evidence": "our own copy is not redistributable; publishing a verified Commons replacement instead (Public domain)",
+   "commons_file": "File:Gustave Courbet - The Grain Sifters - WGA05464.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Gustave_Courbet_-_The_Grain_Sifters_-_WGA05464.jpg",
+   "jstor_url": "https://www.jstor.org/stable/community.13605362",
+   "courses": [
+    "HSDigitalArtImaging1",
+    "MJ Visual Art 2"
+   ],
+   "units": [
+    "Module 9 Industral Rev",
+    "Realism",
+    "images"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "gustave-courbet",
+     "label": "Gustave Courbet"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "realism",
+     "label": "Realism"
+    }
+   ]
+  },
+  {
    "work_id": "aw_e802dbef2bfc",
    "file": "images/aw_e802dbef2bfc.jpg",
    "bytes": 202954,
@@ -317,8 +717,11 @@
    "creator_full": null,
    "date": "332\u201330 B.C.",
    "year": -332,
+   "image_source": "optima-file",
    "licence": "CC0 1.0 Universal (public domain dedication)",
    "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "commons_file": null,
+   "commons_page": null,
    "jstor_url": "https://www.jstor.org/stable/community.15645054",
    "courses": [
     "MJ Visual Art 1"
@@ -350,8 +753,11 @@
    "creator_full": "Sesson Sh\u016bkei (Japanese, c. 1492\u2013c. 1577) [\u96ea\u6751\u5468\u7d99]",
    "date": "c. 1546\u201356",
    "year": 1546,
+   "image_source": "optima-file",
    "licence": "CC0 1.0 Universal (public domain dedication)",
    "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "commons_file": null,
+   "commons_page": null,
    "jstor_url": "https://www.jstor.org/stable/community.24604703",
    "courses": [
     "MJ Visual Art 1"
@@ -388,8 +794,11 @@
    "creator_full": "Katsushika Hokusai (Japanese, 1760\u20131849) [\u845b\u98fe \u5317\u658e]",
    "date": "early 1830s",
    "year": null,
+   "image_source": "optima-file",
    "licence": "CC0 1.0 Universal (public domain dedication)",
    "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "commons_file": null,
+   "commons_page": null,
    "jstor_url": "https://www.jstor.org/stable/community.24591101",
    "courses": [
     "MJ Visual Art 1"
@@ -426,8 +835,11 @@
    "creator_full": "Utagawa Hiroshige (Japanese, 1797\u20131858) [\u6b4c\u5ddd \u5e83\u91cd]",
    "date": "after 1850",
    "year": 1850,
+   "image_source": "optima-file",
    "licence": "CC0 1.0 Universal (public domain dedication)",
    "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "commons_file": null,
+   "commons_page": null,
    "jstor_url": "https://www.jstor.org/stable/community.24618705",
    "courses": [
     "MJ Visual Art 1"
@@ -464,8 +876,11 @@
    "creator_full": "Utagawa Hiroshige (Japanese, 1797\u20131858) [\u6b4c\u5ddd \u5e83\u91cd]",
    "date": "c. 1831",
    "year": 1831,
+   "image_source": "optima-file",
    "licence": "CC0 1.0 Universal (public domain dedication)",
    "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "commons_file": null,
+   "commons_page": null,
    "jstor_url": "https://www.jstor.org/stable/community.24585538",
    "courses": [
     "MJ Visual Art 1"
@@ -502,8 +917,11 @@
    "creator_full": "Katsukawa Shunch\u014d (Japanese)",
    "date": "1780s",
    "year": null,
+   "image_source": "optima-file",
    "licence": "CC0 1.0 Universal (public domain dedication)",
    "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "commons_file": null,
+   "commons_page": null,
    "jstor_url": "https://www.jstor.org/stable/community.35665821",
    "courses": [
     "MJ Visual Art 1"
@@ -525,6 +943,48 @@
    ]
   },
   {
+   "work_id": "aw_c403f2bc62fc",
+   "file": "images/aw_c403f2bc62fc.jpg",
+   "bytes": 274144,
+   "sha256": "b19f6f5d195ff154fdf30ce15fc9477fe073263f125937130e33b0c3287790be",
+   "width": 1213,
+   "height": 1600,
+   "source_px": [
+    1920,
+    2532
+   ],
+   "title": "Saint John the Baptist in the Wilderness",
+   "creator": "Michelangelo Merisi, called Caravaggio",
+   "creator_full": "Michelangelo Merisi, called Caravaggio (Italian, 1571\u20131610)",
+   "date": "1604",
+   "year": 1604,
+   "image_source": "commons",
+   "licence": "Public domain",
+   "licence_evidence": "our own copy is not redistributable; publishing a verified Commons replacement instead (Public domain)",
+   "commons_file": "File:Michelangelo Merisi, called Caravaggio - Saint John the Baptist in the Wilderness - Google Art Project.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Michelangelo_Merisi,_called_Caravaggio_-_Saint_John_the_Baptist_in_the_Wilderness_-_Google_Art_Project.jpg",
+   "jstor_url": "https://www.jstor.org/stable/community.40522524",
+   "courses": [
+    "MJ Visual Art 2"
+   ],
+   "units": [
+    "Baroque",
+    "images"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "michelangelo-merisi",
+     "label": "Michelangelo Merisi"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "baroque-rococo",
+     "label": "Baroque Rococo"
+    }
+   ]
+  },
+  {
    "work_id": "aw_8889873bb637",
    "file": "images/aw_8889873bb637.jpg",
    "bytes": 470622,
@@ -540,8 +1000,11 @@
    "creator_full": "Christoffer Wilhelm Eckersberg (Danish, Bl\u00e5krog 1783\u20131853 Copenhagen)",
    "date": "1841",
    "year": 1841,
+   "image_source": "optima-file",
    "licence": "CC0 1.0 Universal (public domain dedication)",
    "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "commons_file": null,
+   "commons_page": null,
    "jstor_url": "https://www.jstor.org/stable/community.27397037",
    "courses": [
     "MJ Visual Art 2",
@@ -556,6 +1019,51 @@
      "scheme": "art.artist",
      "code": "artist-christoffer-wilhelm-eckersberg-danish",
      "label": "Artist Christoffer Wilhelm Eckersberg Danish"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "renaissance",
+     "label": "Renaissance"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_a9829599b101",
+   "file": "images/aw_a9829599b101.jpg",
+   "bytes": 377668,
+   "sha256": "982d0d9eeabb27da083a827ecd62d596d60e101ecfc5881d0f883af94fb3190a",
+   "width": 1600,
+   "height": 833,
+   "source_px": [
+    1920,
+    1000
+   ],
+   "title": "Last Supper",
+   "creator": "Leonardo, da Vinci, 1452-1519",
+   "creator_full": "Leonardo, da Vinci, 1452-1519",
+   "date": "1495-7",
+   "year": 1495,
+   "image_source": "commons",
+   "licence": "Public domain",
+   "licence_evidence": "our own copy is not redistributable; publishing a verified Commons replacement instead (Public domain)",
+   "commons_file": "File:Leonardo da Vinci (1452-1519) - The Last Supper (1495-1498).jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_(1452-1519)_-_The_Last_Supper_(1495-1498).jpg",
+   "jstor_url": "https://www.jstor.org/stable/community.13715905",
+   "courses": [
+    "MJ Visual Art 2",
+    "MJ Visual Art 3"
+   ],
+   "units": [
+    "Italian Ren",
+    "Italian Ren. Perspective",
+    "Module 06 - Italian Renaissance (Perspective)",
+    "images"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "leonardo-da-vinci",
+     "label": "Leonardo da Vinci"
     },
     {
      "scheme": "art.movement",
@@ -580,8 +1088,11 @@
    "creator_full": "Girolamo dai Libri (Italian, Verona 1474\u20131555 Verona)",
    "date": "1501\u20132",
    "year": 1501,
+   "image_source": "optima-file",
    "licence": "CC0 1.0 Universal (public domain dedication)",
    "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "commons_file": null,
+   "commons_page": null,
    "jstor_url": "https://www.jstor.org/stable/community.15999941",
    "courses": [
     "MJ Visual Art 2"
@@ -604,6 +1115,166 @@
    ]
   },
   {
+   "work_id": "aw_dfff86ef6c54",
+   "file": "images/aw_dfff86ef6c54.jpg",
+   "bytes": 391080,
+   "sha256": "9a0a6c96ae16a5b16ded84499144080fd0be5af3e84f081250326b0c0a22053e",
+   "width": 1600,
+   "height": 1385,
+   "source_px": [
+    1920,
+    1662
+   ],
+   "title": "Bonjour M. Courbet (Self Portrait)",
+   "creator": "Courbet, Gustave, 1819-1877",
+   "creator_full": "Courbet, Gustave, 1819-1877",
+   "date": "1855",
+   "year": 1855,
+   "image_source": "commons",
+   "licence": "Public domain",
+   "licence_evidence": "our own copy is not redistributable; publishing a verified Commons replacement instead (Public domain)",
+   "commons_file": "File:Gustave Courbet - Bonjour Monsieur Courbet - Mus\u00e9e Fabre.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Gustave_Courbet_-_Bonjour_Monsieur_Courbet_-_Mus%C3%A9e_Fabre.jpg",
+   "jstor_url": "https://www.jstor.org/stable/community.13611699",
+   "courses": [
+    "MJ Visual Art 2"
+   ],
+   "units": [
+    "Realism"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "gustave-courbet",
+     "label": "Gustave Courbet"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "realism",
+     "label": "Realism"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_547bf6ef6809",
+   "file": "images/aw_547bf6ef6809.jpg",
+   "bytes": 388396,
+   "sha256": "9d935bcc8e981a4eaf37fc14495e8ab371e74379e8196e456eb1eb99f21de11a",
+   "width": 1600,
+   "height": 1051,
+   "source_px": [
+    1920,
+    1261
+   ],
+   "title": "Still Life with Apples, Pear, and Pomegranates",
+   "creator": "Gustave Courbet, French, 1819 - 1877",
+   "creator_full": "Gustave Courbet, French, 1819 - 1877",
+   "date": "1871 or 1872",
+   "year": 1872,
+   "image_source": "commons",
+   "licence": "Public domain",
+   "licence_evidence": "our own copy is not redistributable; publishing a verified Commons replacement instead (Public domain)",
+   "commons_file": "File:Gustave Courbet - Still Life with Apples, Pear, and Pomegranates - 1985.R.18 - Dallas Museum of Art.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Gustave_Courbet_-_Still_Life_with_Apples,_Pear,_and_Pomegranates_-_1985.R.18_-_Dallas_Museum_of_Art.jpg",
+   "jstor_url": "https://www.jstor.org/stable/community.14365184",
+   "courses": [
+    "MJ Visual Art 2"
+   ],
+   "units": [
+    "Realism",
+    "images"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "gustave-courbet",
+     "label": "Gustave Courbet"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "realism",
+     "label": "Realism"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_dda35cff7f00",
+   "file": "images/aw_dda35cff7f00.jpg",
+   "bytes": 225808,
+   "sha256": "ab31902a88108fa815d6c90baad348100d2028ee47aa432735712e9c92a34a90",
+   "width": 1600,
+   "height": 1174,
+   "source_px": [
+    1920,
+    1409
+   ],
+   "title": "Still Life with Apples and a Pomegranate",
+   "creator": "Gustave Courbet, 1819 - 1877",
+   "creator_full": "Gustave Courbet, 1819 - 1877",
+   "date": "1871-2",
+   "year": 1871,
+   "image_source": "commons",
+   "licence": "Public domain",
+   "licence_evidence": "our own copy is not redistributable; publishing a verified Commons replacement instead (Public domain)",
+   "commons_file": "File:Gustave Courbet, 1871, Still Life with Apples and a Pomegranate, National Gallery.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Gustave_Courbet,_1871,_Still_Life_with_Apples_and_a_Pomegranate,_National_Gallery.jpg",
+   "jstor_url": "https://www.jstor.org/stable/community.15667918",
+   "courses": [
+    "MJ Visual Art 2"
+   ],
+   "units": [
+    "Realism"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "gustave-courbet",
+     "label": "Gustave Courbet"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "realism",
+     "label": "Realism"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_d5beaa12a391",
+   "file": "images/aw_d5beaa12a391.jpg",
+   "bytes": 765014,
+   "sha256": "a4c11b54e035a2f0e00ded4fb7a112459bf1c2b81bc255a9747c5b947f0ef5d1",
+   "width": 1600,
+   "height": 1275,
+   "source_px": [
+    1920,
+    1530
+   ],
+   "title": "Red Vineyard",
+   "creator": "Gogh, Vincent van, 1853-1890",
+   "creator_full": "Gogh, Vincent van, 1853-1890",
+   "date": "1888",
+   "year": 1888,
+   "image_source": "commons",
+   "licence": "Public domain",
+   "licence_evidence": "our own copy is not redistributable; publishing a verified Commons replacement instead (Public domain)",
+   "commons_file": "File:Vincent van Gogh - Red Vineyard at Arles (1888).jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Red_Vineyard_at_Arles_(1888).jpg",
+   "jstor_url": "https://www.jstor.org/stable/community.13899725",
+   "courses": [
+    "MJ Visual Art 2"
+   ],
+   "units": [
+    "Van gogh"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "vincent-willem-van-gogh",
+     "label": "Vincent Willem Van Gogh"
+    }
+   ]
+  },
+  {
    "work_id": "aw_93aba8376b99",
    "file": "images/aw_93aba8376b99.jpg",
    "bytes": 867688,
@@ -619,8 +1290,11 @@
    "creator_full": "Christoffer Wilhelm Eckersberg (Danish, Bl\u00e5krog 1783\u20131853 Copenhagen)",
    "date": "1841",
    "year": 1841,
+   "image_source": "optima-file",
    "licence": "CC0 1.0 Universal (public domain dedication)",
    "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "commons_file": null,
+   "commons_page": null,
    "jstor_url": "https://www.jstor.org/stable/community.27397036",
    "courses": [
     "MJ Visual Art 3"
@@ -638,6 +1312,48 @@
      "scheme": "art.movement",
      "code": "renaissance",
      "label": "Renaissance"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_a740c793ba34",
+   "file": "images/aw_a740c793ba34.jpg",
+   "bytes": 500690,
+   "sha256": "47709fe524c6936eac5585d007bc4e9bc0a1dc9c91f28d4119dc6e36fc823a2e",
+   "width": 1231,
+   "height": 1600,
+   "source_px": [
+    1920,
+    2495
+   ],
+   "title": "Van Gogh's Chair",
+   "creator": "Vincent van Gogh, 1853 - 1890",
+   "creator_full": "Vincent van Gogh, 1853 - 1890",
+   "date": "1888",
+   "year": 1888,
+   "image_source": "commons",
+   "licence": "Public domain",
+   "licence_evidence": "our own copy is not redistributable; publishing a verified Commons replacement instead (Public domain)",
+   "commons_file": "File:Van Gogh's Chair.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Van_Gogh%27s_Chair.jpg",
+   "jstor_url": "https://www.jstor.org/stable/community.15655824",
+   "courses": [
+    "MJ Visual Art 3"
+   ],
+   "units": [
+    "Module 12 - Post-Impressionism (Van Gogh Pop-Up Chairs)",
+    "Van Gogh"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "vincent-willem-van-gogh",
+     "label": "Vincent Willem Van Gogh"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "post-impressionism",
+     "label": "Post Impressionism"
     }
    ]
   }
