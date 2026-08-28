@@ -1,0 +1,645 @@
+{
+ "generated": "2026-08-28T08:44:00",
+ "n_images": 17,
+ "max_edge": 1600,
+ "jpeg_quality": 82,
+ "licence_note": "Every image here carries an explicit CC0 public-domain dedication in its source file metadata. Works whose licence did not permit redistribution are NOT in this repo; they are catalogued in the private optima-art-library with a JSTOR link instead.",
+ "images": [
+  {
+   "work_id": "aw_9130be54af83",
+   "file": "images/aw_9130be54af83.jpg",
+   "bytes": 448918,
+   "sha256": "a6e73fd75c637800772768ca848da82a5539775ff63d3d9fc17ad4f05e40d3c4",
+   "width": 1066,
+   "height": 1600,
+   "source_px": [
+    1333,
+    2000
+   ],
+   "title": "Mastaba Tomb of Perneb",
+   "creator": null,
+   "creator_full": null,
+   "date": "ca. 2381\u20132323 B.C.",
+   "year": -2323,
+   "licence": "CC0 1.0 Universal (public domain dedication)",
+   "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "jstor_url": "https://www.jstor.org/stable/community.18306841",
+   "courses": [
+    "Art History and Criticism"
+   ],
+   "units": [
+    "Ancient Egypt & Mesopotamia",
+    "images"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "mastaba",
+     "label": "Mastaba"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "ancient-near-east",
+     "label": "Ancient Near East"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_b262f9e6f94c",
+   "file": "images/aw_b262f9e6f94c.jpg",
+   "bytes": 458656,
+   "sha256": "391697c3c66b0ed7c866dd8f2e5e9dff5b5a3cd83cfcc2ba56781361553b70e3",
+   "width": 1600,
+   "height": 1285,
+   "source_px": [
+    3348,
+    2688
+   ],
+   "title": "Mastaba Tomb of Perneb",
+   "creator": null,
+   "creator_full": null,
+   "date": "ca. 2381\u20132323 B.C.",
+   "year": -2323,
+   "licence": "CC0 1.0 Universal (public domain dedication)",
+   "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "jstor_url": "https://www.jstor.org/stable/community.18429583",
+   "courses": [
+    "Art History and Criticism"
+   ],
+   "units": [
+    "Ancient Egypt & Mesopotamia"
+   ],
+   "tags": [
+    {
+     "scheme": "art.movement",
+     "code": "ancient-near-east",
+     "label": "Ancient Near East"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_7fa594b483fb",
+   "file": "images/aw_7fa594b483fb.jpg",
+   "bytes": 373132,
+   "sha256": "e212454db31a35829ff23cc1c551fbb2f98ed89cfdf0ca5b38f7e47b86c42055",
+   "width": 1600,
+   "height": 1009,
+   "source_px": [
+    3400,
+    2144
+   ],
+   "title": "Study for \"Bathers at Asni\u00e8res\"",
+   "creator": "Georges Seurat",
+   "creator_full": "Georges Seurat (French, 1859\u20131891)",
+   "date": "c. 1883\u201384",
+   "year": 1883,
+   "licence": "CC0 1.0 Universal (public domain dedication)",
+   "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "jstor_url": "https://www.jstor.org/stable/community.24604477",
+   "courses": [
+    "Art History and Criticism"
+   ],
+   "units": [
+    "Neoclassicism, Romanticism, Realism & Impressionism",
+    "images"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "georges-seurat",
+     "label": "Georges Seurat"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "neoclassicism",
+     "label": "Neoclassicism"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_647faeb916a7",
+   "file": "images/aw_647faeb916a7.jpg",
+   "bytes": 99548,
+   "sha256": "4f685ac5842a779b0762a99fecf8fd9b5bbd0b24b74e2d105e5d830015ec9757",
+   "width": 1016,
+   "height": 1600,
+   "source_px": [
+    2389,
+    3764
+   ],
+   "title": "Marble statue of a kouros (youth)",
+   "creator": null,
+   "creator_full": null,
+   "date": "ca. 590\u2013580 BCE",
+   "year": -580,
+   "licence": "CC0 1.0 Universal (public domain dedication)",
+   "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "jstor_url": "https://www.jstor.org/stable/community.16001614",
+   "courses": [
+    "HS2DStudioArt"
+   ],
+   "units": [
+    "Greek Sculpture"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "greek-attic",
+     "label": "Greek Attic"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "ancient-greek",
+     "label": "Ancient Greek"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_039ff00d3e08",
+   "file": "images/aw_039ff00d3e08.jpg",
+   "bytes": 367760,
+   "sha256": "6917480a31ac72ef1abdbb9417ec5ac1fe9e450a752efac965df4c526edff4c8",
+   "width": 1147,
+   "height": 1600,
+   "source_px": [
+    2540,
+    3542
+   ],
+   "title": "The Glorification of the Royal Hungarian Saints",
+   "creator": "Franz Anton Maulbertsch",
+   "creator_full": "Franz Anton Maulbertsch (Austrian, Langenargen am Bodensee 1724\u20131796 Vienna)",
+   "date": "ca. 1772\u201373",
+   "year": 1772,
+   "licence": "CC0 1.0 Universal (public domain dedication)",
+   "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "jstor_url": "https://www.jstor.org/stable/community.18708564",
+   "courses": [
+    "HS2DStudioArt"
+   ],
+   "units": [
+    "Monochromatic Color"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "artist-franz-anton-maulbertsch",
+     "label": "Artist Franz Anton Maulbertsch"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_c86e3e86d2cb",
+   "file": "images/aw_c86e3e86d2cb.jpg",
+   "bytes": 599388,
+   "sha256": "be4326e5357fc1ee53aff2f48a67feec4a73ba60a44664f419c23aecd23f2225",
+   "width": 1196,
+   "height": 1600,
+   "source_px": [
+    1513,
+    2024
+   ],
+   "title": "Design for a Stage Set Depicting a Perspectival View of an Ideal Renaissance City",
+   "creator": "Anonymous, Italian, 16th century",
+   "creator_full": "Anonymous, Italian, 16th century ; Artist: Previously attributed to Monogrammist G.A. & the Caltrop (Italian, 1530\u20131540)",
+   "date": "ca. 1550\u201360",
+   "year": 1550,
+   "licence": "CC0 1.0 Universal (public domain dedication)",
+   "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "jstor_url": "https://www.jstor.org/stable/community.27394788",
+   "courses": [
+    "HS2DStudioArt"
+   ],
+   "units": [
+    "Renaissance Perspective"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "artist-anonymous",
+     "label": "Artist Anonymous"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "renaissance",
+     "label": "Renaissance"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_16907897a97a",
+   "file": "images/aw_16907897a97a.jpg",
+   "bytes": 370735,
+   "sha256": "b8c76f0f888af012f773d56e4ceca02a001adeb542a763cf399db54ff708ece7",
+   "width": 1600,
+   "height": 1220,
+   "source_px": [
+    3436,
+    2619
+   ],
+   "title": "Still Life: Double Cherry-Blossom Branch, Telescope, Sweet Fish, and Tissue Case",
+   "creator": "Katsushika Hokusai",
+   "creator_full": "Katsushika Hokusai (Japanese, Tokyo (Edo) 1760\u20131849 Tokyo (Edo))",
+   "date": "ca. 1804\u201313",
+   "year": 1804,
+   "licence": "CC0 1.0 Universal (public domain dedication)",
+   "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "jstor_url": "https://www.jstor.org/stable/community.18688530",
+   "courses": [
+    "HS2DStudioArt2"
+   ],
+   "units": [
+    "Unit 2",
+    "images"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "artist-katsushika-hokusai",
+     "label": "Artist Katsushika Hokusai"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_5f07808c5b45",
+   "file": "images/aw_5f07808c5b45.jpg",
+   "bytes": 415158,
+   "sha256": "33315a5cea84b4cf39ff45ba581eb557fcbb04b1657842bf690643880e3752ac",
+   "width": 1600,
+   "height": 1076,
+   "source_px": [
+    3658,
+    2459
+   ],
+   "title": "Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series Thirty-six Views of Mount Fuji (Fugaku sanj\u016brokkei)",
+   "creator": "Katsushika Hokusai",
+   "creator_full": "Katsushika Hokusai (Japanese, Tokyo (Edo) 1760\u20131849 Tokyo (Edo))",
+   "date": "ca. 1830\u201332",
+   "year": 1830,
+   "licence": "CC0 1.0 Universal (public domain dedication)",
+   "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "jstor_url": "https://www.jstor.org/stable/community.15651093",
+   "courses": [
+    "HS2DStudioArt2",
+    "HSDigitalArtImaging1",
+    "MJ Visual Art 1"
+   ],
+   "units": [
+    "Japanese Art",
+    "Unit 5",
+    "images"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "artist-katsushika-hokusai",
+     "label": "Artist Katsushika Hokusai"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "japanese",
+     "label": "Japanese"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_e802dbef2bfc",
+   "file": "images/aw_e802dbef2bfc.jpg",
+   "bytes": 202954,
+   "sha256": "8b2251136e09d94f12e8de2c6ee46da653792aa46c35d3620df02504bc334107",
+   "width": 1243,
+   "height": 1600,
+   "source_px": [
+    1530,
+    1970
+   ],
+   "title": "Cat Statuette intended to contain a mummified cat",
+   "creator": null,
+   "creator_full": null,
+   "date": "332\u201330 B.C.",
+   "year": -332,
+   "licence": "CC0 1.0 Universal (public domain dedication)",
+   "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "jstor_url": "https://www.jstor.org/stable/community.15645054",
+   "courses": [
+    "MJ Visual Art 1"
+   ],
+   "units": [
+    "Ancient Egypt"
+   ],
+   "tags": [
+    {
+     "scheme": "art.movement",
+     "code": "ancient-near-east",
+     "label": "Ancient Near East"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_b0f07da159b4",
+   "file": "images/aw_b0f07da159b4.jpg",
+   "bytes": 421881,
+   "sha256": "15e8a5dab95d4164194a996d45cee128a602ed00d6be8bad8718f65d6d8f18bc",
+   "width": 1599,
+   "height": 1600,
+   "source_px": [
+    2998,
+    3000
+   ],
+   "title": "Dragon and Tiger / \u9f8d\u864e\u56f3\u5c4f\u98a8",
+   "creator": "Sesson Sh\u016bkei",
+   "creator_full": "Sesson Sh\u016bkei (Japanese, c. 1492\u2013c. 1577) [\u96ea\u6751\u5468\u7d99]",
+   "date": "c. 1546\u201356",
+   "year": 1546,
+   "licence": "CC0 1.0 Universal (public domain dedication)",
+   "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "jstor_url": "https://www.jstor.org/stable/community.24604703",
+   "courses": [
+    "MJ Visual Art 1"
+   ],
+   "units": [
+    "Chinese Art"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "sesson-shukei",
+     "label": "Sesson Shukei"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "chinese",
+     "label": "Chinese"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_d208e7d166c2",
+   "file": "images/aw_d208e7d166c2.jpg",
+   "bytes": 437908,
+   "sha256": "0d532da8dc27a96ed55adf962114f30355cc44ce76923f683516282f77308232",
+   "width": 1600,
+   "height": 1098,
+   "source_px": [
+    3400,
+    2334
+   ],
+   "title": "An Ancient Picture of the Eight Part Bridge in Mikawa Province (from the series Curious Views of Famous Bridges in the Provinces)",
+   "creator": "Katsushika Hokusai",
+   "creator_full": "Katsushika Hokusai (Japanese, 1760\u20131849) [\u845b\u98fe \u5317\u658e]",
+   "date": "early 1830s",
+   "year": null,
+   "licence": "CC0 1.0 Universal (public domain dedication)",
+   "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "jstor_url": "https://www.jstor.org/stable/community.24591101",
+   "courses": [
+    "MJ Visual Art 1"
+   ],
+   "units": [
+    "Japanese Art"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "artist-katsushika-hokusai",
+     "label": "Artist Katsushika Hokusai"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "japanese",
+     "label": "Japanese"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_b7a2cb158125",
+   "file": "images/aw_b7a2cb158125.jpg",
+   "bytes": 461868,
+   "sha256": "4fde7457ed6a0e63bd50939c533aaa0424a0d62451af48ddeb1b55d8ffd42033",
+   "width": 1600,
+   "height": 1282,
+   "source_px": [
+    3351,
+    2684
+   ],
+   "title": "Cherry Blossom Viewing at the Temple on Mt. Suribachi after a Design in Volume 5 of Picture Book of the Souvenirs of Edo (Ehon Edo miyage)",
+   "creator": "Utagawa Hiroshige",
+   "creator_full": "Utagawa Hiroshige (Japanese, 1797\u20131858) [\u6b4c\u5ddd \u5e83\u91cd]",
+   "date": "after 1850",
+   "year": 1850,
+   "licence": "CC0 1.0 Universal (public domain dedication)",
+   "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "jstor_url": "https://www.jstor.org/stable/community.24618705",
+   "courses": [
+    "MJ Visual Art 1"
+   ],
+   "units": [
+    "Japanese Art"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "utagawa-hiroshige",
+     "label": "Utagawa Hiroshige"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "japanese",
+     "label": "Japanese"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_82fb8a557514",
+   "file": "images/aw_82fb8a557514.jpg",
+   "bytes": 333725,
+   "sha256": "644a862a2168a7604401b598ee0af0dc4762ac51e2c921cfb76b692b3bb9150e",
+   "width": 1600,
+   "height": 1031,
+   "source_px": [
+    3400,
+    2191
+   ],
+   "title": "Full Moon over Takanawa, from the series Famous Places in the Eastern Capital",
+   "creator": "Utagawa Hiroshige",
+   "creator_full": "Utagawa Hiroshige (Japanese, 1797\u20131858) [\u6b4c\u5ddd \u5e83\u91cd]",
+   "date": "c. 1831",
+   "year": 1831,
+   "licence": "CC0 1.0 Universal (public domain dedication)",
+   "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "jstor_url": "https://www.jstor.org/stable/community.24585538",
+   "courses": [
+    "MJ Visual Art 1"
+   ],
+   "units": [
+    "Japanese Art"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "utagawa-hiroshige",
+     "label": "Utagawa Hiroshige"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "japanese",
+     "label": "Japanese"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_685d4a0ab062",
+   "file": "images/aw_685d4a0ab062.jpg",
+   "bytes": 478983,
+   "sha256": "ed2d5c2871038400e2cb75bd981dc1976b667ef4bbe28e88df09cb93c587f0e6",
+   "width": 1220,
+   "height": 1600,
+   "source_px": [
+    2593,
+    3400
+   ],
+   "title": "Women Viewing Cherry Blossoms at Asukayama",
+   "creator": "Katsukawa Shunch\u014d",
+   "creator_full": "Katsukawa Shunch\u014d (Japanese)",
+   "date": "1780s",
+   "year": null,
+   "licence": "CC0 1.0 Universal (public domain dedication)",
+   "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "jstor_url": "https://www.jstor.org/stable/community.35665821",
+   "courses": [
+    "MJ Visual Art 1"
+   ],
+   "units": [
+    "Japanese Art"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "artist",
+     "label": "Artist"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "japanese",
+     "label": "Japanese"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_8889873bb637",
+   "file": "images/aw_8889873bb637.jpg",
+   "bytes": 470622,
+   "sha256": "402dd0e97644c9912d61a46ef515b71caa8ced0364c147ae023708d6cbabdda3",
+   "width": 1154,
+   "height": 1233,
+   "source_px": [
+    1154,
+    1233
+   ],
+   "title": "Two women conversing on a street corner, from \"Linear Perspective, Applied to the Art of Painting\"",
+   "creator": "Christoffer Wilhelm Eckersberg",
+   "creator_full": "Christoffer Wilhelm Eckersberg (Danish, Bl\u00e5krog 1783\u20131853 Copenhagen)",
+   "date": "1841",
+   "year": 1841,
+   "licence": "CC0 1.0 Universal (public domain dedication)",
+   "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "jstor_url": "https://www.jstor.org/stable/community.27397037",
+   "courses": [
+    "MJ Visual Art 2",
+    "MJ Visual Art 3"
+   ],
+   "units": [
+    "Italian Ren",
+    "Italian Ren. Perspective"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "artist-christoffer-wilhelm-eckersberg-danish",
+     "label": "Artist Christoffer Wilhelm Eckersberg Danish"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "renaissance",
+     "label": "Renaissance"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_701d979d4830",
+   "file": "images/aw_701d979d4830.jpg",
+   "bytes": 401259,
+   "sha256": "dba16810b3474cfc070058d26de79258cbfe5201edc3f96fd9f9e3e1fa8bcd51",
+   "width": 1122,
+   "height": 1600,
+   "source_px": [
+    2511,
+    3582
+   ],
+   "title": "Manuscript Illumination with David in Prayer in an Initial M, from a Psalter",
+   "creator": "Girolamo dai Libri",
+   "creator_full": "Girolamo dai Libri (Italian, Verona 1474\u20131555 Verona)",
+   "date": "1501\u20132",
+   "year": 1501,
+   "licence": "CC0 1.0 Universal (public domain dedication)",
+   "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "jstor_url": "https://www.jstor.org/stable/community.15999941",
+   "courses": [
+    "MJ Visual Art 2"
+   ],
+   "units": [
+    "Medieval Art",
+    "images"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "artist-girolamo-dai-libri",
+     "label": "Artist Girolamo Dai Libri"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "medieval",
+     "label": "Medieval"
+    }
+   ]
+  },
+  {
+   "work_id": "aw_93aba8376b99",
+   "file": "images/aw_93aba8376b99.jpg",
+   "bytes": 867688,
+   "sha256": "8166a0305e9e44f347cddd4b519aabcabd4cf9bfaa75e2410f07e2a5967a2b04",
+   "width": 1600,
+   "height": 1350,
+   "source_px": [
+    1964,
+    1657
+   ],
+   "title": "A couple conversing in a stable yard, with a double rainbow overhead, from 'Linear Perspective, Applied to the Art of Painting'",
+   "creator": "Christoffer Wilhelm Eckersberg",
+   "creator_full": "Christoffer Wilhelm Eckersberg (Danish, Bl\u00e5krog 1783\u20131853 Copenhagen)",
+   "date": "1841",
+   "year": 1841,
+   "licence": "CC0 1.0 Universal (public domain dedication)",
+   "licence_evidence": "file carries a CC0 / Open Artstor dedication",
+   "jstor_url": "https://www.jstor.org/stable/community.27397036",
+   "courses": [
+    "MJ Visual Art 3"
+   ],
+   "units": [
+    "Italian Ren. Perspective"
+   ],
+   "tags": [
+    {
+     "scheme": "art.artist",
+     "code": "artist-christoffer-wilhelm-eckersberg-danish",
+     "label": "Artist Christoffer Wilhelm Eckersberg Danish"
+    },
+    {
+     "scheme": "art.movement",
+     "code": "renaissance",
+     "label": "Renaissance"
+    }
+   ]
+  }
+ ]
+}
